@@ -6,6 +6,7 @@ It demonstrates core game-development concepts like animation, collision detecti
 
 ---
 
+
 ## 🚀 Features
 
 * Smooth 2D animation using **HTML5 Canvas**
