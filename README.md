@@ -90,6 +90,14 @@ Just open the live link from the repository deployment section and start playing
 
 ---
 
+## 📜 License
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.
+
+See the [LICENSE](LICENSE) file for details.
+
+
+---
+
 ## 👨‍💻 Author
 
 **Name:** lshariprasad
