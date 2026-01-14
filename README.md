@@ -98,7 +98,6 @@ See the [LICENSE](LICENSE) file for details.
 
 
 ---
-
 ## 👨‍💻 Author
 
 **Name:** lshariprasad
