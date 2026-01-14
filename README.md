@@ -14,6 +14,7 @@ It demonstrates core game-development concepts like animation, collision detecti
 * Simple and clean UI
 * Beginner-friendly JavaScript game logic
 
+
 ---
 
 ## 🛠️ Technologies Used
