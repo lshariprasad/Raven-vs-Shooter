@@ -7,6 +7,9 @@
   --primary: #4ee1a1;
   --glass: rgba(255, 255, 255, 0.04);
 }
+
+
+
 * {
   box-sizing: border-box;
 }
@@ -240,3 +243,4 @@ textarea {
     bottom: 12px;
   }
 }
+
